@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Heet-P&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heet-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Heet-P&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Heet16?theme=dark&font=Oxygen%20Mono&ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Heet-P&icon=1&color=6)](https://visitcount.itsvg.in)
