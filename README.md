@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web-Game<br>🤝 I’m looking for help with learning Javascript Frameworks and GameDevelopment<br>🌱 I’m currently learning JavaScript Frameworks and Unreal Engine<br>⚡ Fun fact, I want to live in mountains<br>
+🔭 I’m currently working on my Portfolio<br>🤝 I’m looking for help with learning Javascript Frameworks and Game-Development<br>🌱 I’m currently learning JavaScript Frameworks and Unreal Engine 5<br>
 
 
 ## 🌐 Socials:
