@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on my Portfolio<br>🤝 I’m looking for help with learning Javascript Frameworks and Game-Development<br>🌱 I’m currently learning JavaScript Frameworks and Unreal Engine 5<br>
-
+[![Portfolio](www.heetparikh.me)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heet_1606) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heet-parikh-677437211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heet16@gmail.com) 
