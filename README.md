@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio<br>🤝 I’m looking for help with learning Javascript Frameworks and Game-Development<br>🌱 I’m currently learning JavaScript Frameworks and Unreal Engine 5<br>
+🔭 I’m currently working on my Game<br>🤝 I’m looking for help in learning NEXTjs and Game-Development in UE5 <br>🌱 I’m currently learning Unreal Engine 5<br>
 
 
 ## 🌐 Socials:
