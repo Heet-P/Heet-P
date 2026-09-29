@@ -1,0 +1,55 @@
+name: Update profile visuals
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-profile-visuals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution terrain
+        uses: BIRSAx2/git-terrain@v0
+        with:
+          username: ${{ github.repository_owner }}
+          contrib-total-mode: rolling
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      - name: Install generated files
+        shell: bash
+        run: |
+          set -e
+          mkdir -p profile-pacman
+          cp dist/pacman-contribution-graph.svg profile-pacman/pacman-contribution-graph.svg
+          cp dist/pacman-contribution-graph-dark.svg profile-pacman/pacman-contribution-graph-dark.svg
+
+      - name: Commit generated profile assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/ profile-pacman/
+          if git diff --cached --quiet; then
+            echo "No visual changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update profile visuals"
+          git push

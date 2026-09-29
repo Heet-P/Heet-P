@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#edf5ff"/></linearGradient>
+  <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#122a62"/><stop offset=".6" stop-color="#1264ef"/><stop offset="1" stop-color="#7b10ff"/></linearGradient>
+</defs>
+<rect width="1200" height="620" rx="22" fill="url(#bg)"/>
+<text x="60" y="72" font-family="system-ui, sans-serif" font-size="20" fill="#5f6f92">September 19, 2026</text>
+<text x="60" y="108" font-family="system-ui, sans-serif" font-weight="700" font-size="21" fill="#182653">IBM Hackathon</text>
+<text x="60" y="137" font-family="system-ui, sans-serif" font-size="18" fill="#61729a">CHARUSAT, Changa</text>
+<text x="60" y="250" font-family="system-ui, sans-serif" font-weight="800" font-size="74" fill="url(#title)">YieldGuard AI</text>
+<rect x="60" y="270" width="115" height="8" rx="4" fill="#642bff"/>
+<text x="60" y="320" font-family="system-ui, sans-serif" font-size="25" fill="#5d709b">An AI-powered root cause analysis platform</text>
+<text x="60" y="352" font-family="system-ui, sans-serif" font-size="25" fill="#5d709b">for semiconductor manufacturing</text>
+<g transform="translate(930 330)">
+  <circle r="130" fill="#dcecff"/>
+  <path d="M-92,-56 Q-110,-115 0,-128 Q110,-115 92,-56 L70,-32 Q65,-110 -65,-105 Z" fill="#2587ef" stroke="#111827" stroke-width="8"/>
+  <rect x="-92" y="-42" width="184" height="132" rx="55" fill="#f8fafc" stroke="#111827" stroke-width="8"/>
+  <circle cx="-42" cy="22" r="18" fill="#111827"/><circle cx="42" cy="22" r="18" fill="#111827"/>
+  <path d="M-28 52 Q0 75 28 52" fill="none" stroke="#111827" stroke-width="7" stroke-linecap="round"/>
+  <path d="M-70 98 L-38 145 L38 145 L70 98" fill="#111827"/>
+  <rect x="-30" y="93" width="60" height="38" rx="10" fill="#eef5ff" stroke="#111827" stroke-width="5"/>
+  <text x="0" y="120" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="800" fill="#1264ef">&lt;/&gt;</text>
+</g>
+<rect x="60" y="500" width="760" height="64" rx="16" fill="#ffffff" stroke="#c8dcff"/>
+<text x="84" y="539" font-family="ui-monospace, monospace" font-size="19" fill="#233b71">CNN 92% accuracy  •  91% macro-F1  •  Isolation Forest  •  BOB</text>
+<text x="900" y="530" font-family="system-ui, sans-serif" font-size="20" font-weight="800" fill="#233b71">2nd Place</text>
+</svg>

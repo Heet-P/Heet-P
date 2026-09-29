@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="620" viewBox="0 0 1050 620">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="1050" height="620" rx="14" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1049" height="619" rx="14" fill="none" stroke="#30363d"/>
+<line x1="0" y1="46" x2="1050" y2="46" stroke="#30363d"/>
+<circle cx="24" cy="23" r="6" fill="#ff5f56"/><circle cx="44" cy="23" r="6" fill="#ffbd2e"/><circle cx="64" cy="23" r="6" fill="#27c93f"/>
+<text x="525.0" y="30" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#7d8590">heet@github: ~$ ./portrait.sh</text>
+<text x="34" y="80" font-family="ui-monospace,monospace" font-size="17" fill="#c9d1d9">[ OK ] loading developer.profile</text>
+<text x="34" y="106" font-family="ui-monospace,monospace" font-size="17" fill="#c9d1d9" opacity="0">[ OK ] loading projects <animate attributeName="opacity" begin="0.45s" dur=".18s" to="1" fill="freeze"/></text>
+<text x="34" y="132" font-family="ui-monospace,monospace" font-size="17" fill="#c9d1d9" opacity="0">[ OK ] loading achievements <animate attributeName="opacity" begin="0.9s" dur=".18s" to="1" fill="freeze"/></text>
+<text x="34" y="158" font-family="ui-monospace,monospace" font-size="17" fill="#c9d1d9" opacity="0">[ OK ] loading github.activity <animate attributeName="opacity" begin="1.35s" dur=".18s" to="1" fill="freeze"/></text>
+<text x="34" y="184" font-family="ui-monospace,monospace" font-size="17" fill="#58a6ff" opacity="0">rendering identity... <animate attributeName="opacity" begin="1.8s" dur=".18s" to="1" fill="freeze"/></text>
+<clipPath id="p0"><rect x="34" y="205.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.10s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="214.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p0)"></text>
+<clipPath id="p1"><rect x="34" y="215.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.21s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="224.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p1)">                       :=++===--:.</text>
+<clipPath id="p2"><rect x="34" y="226.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.31s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="235.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p2)">                   .-#%%%%%%%%%%%%%*-.</text>
+<clipPath id="p3"><rect x="34" y="236.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.42s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="245.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p3)">                 -*%%%%%%%%%%@@@@@%%%%#-</text>
+<clipPath id="p4"><rect x="34" y="247.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.52s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="256.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p4)">              .:*%%%%%%%@%%%@@@@@%%%%%%%%=</text>
+<clipPath id="p5"><rect x="34" y="257.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.62s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="266.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p5)">            -#%%%%%%%%@@@@@@@@@@@%%%%%%@%%*.</text>
+<clipPath id="p6"><rect x="34" y="268.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.73s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="277.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p6)">          :#@%%%@@%@@@@@@@@%%@@%%%%%%@@@@%%#.</text>
+<clipPath id="p7"><rect x="34" y="278.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.83s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="287.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p7)">          +%@%@@@@@@@@@%%%%%%###*****#%@@@%@= .</text>
+<clipPath id="p8"><rect x="34" y="289.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="2.94s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="298.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p8)">          -#%%@%%@%@%#%%%%#**++++===++*%@%%@+ ...</text>
+<clipPath id="p9"><rect x="34" y="299.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.04s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="308.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p9)">           .=+%@%@%#**++++++==-==-=====+#@%%%. ....</text>
+<clipPath id="p10"><rect x="34" y="310.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.15s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="319.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p10)">             .-%%%*##*###*+=--=+*#%#***++%%%: .....</text>
+<clipPath id="p11"><rect x="34" y="320.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.25s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="329.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p11)">               -+++===++++==-===++++===+++*= .......</text>
+<clipPath id="p12"><rect x="34" y="331.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.36s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="340.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p12)">               +#:-+*+#*++======++*#+*=+=#*- .......</text>
+<clipPath id="p13"><rect x="34" y="341.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.46s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="350.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p13)">               +*.:-----===----=====-----**-........</text>
+<clipPath id="p14"><rect x="34" y="352.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.57s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="361.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p14)">               =*::::::-===:::-===-:::::-**..........</text>
+<clipPath id="p15"><rect x="34" y="362.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.67s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="371.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p15)">               .+--::-=+=---:-=--++--:--=#=........</text>
+<clipPath id="p16"><rect x="34" y="373.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.78s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="382.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p16)">               .====-=*++*##**##*+**===+++:.........</text>
+<clipPath id="p17"><rect x="34" y="383.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.88s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="392.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p17)">                .=====#%*++++++++#%#+=+++............</text>
+<clipPath id="p18"><rect x="34" y="394.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="3.99s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="403.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p18)">              ....+===++=+=====+++++=+++:............</text>
+<clipPath id="p19"><rect x="34" y="404.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.09s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="413.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p19)">            .......+++*+===++++++=+*+**-.::::........</text>
+<clipPath id="p20"><rect x="34" y="415.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.20s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="424.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p20)">         ..........:****=========+*###=.:::::::.....</text>
+<clipPath id="p21"><rect x="34" y="425.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.30s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="434.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p21)">       ............-++#%#*=====+*%%#**+=-::::::.....</text>
+<clipPath id="p22"><rect x="34" y="436.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.41s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="445.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p22)">      .........:-=#+=+++*#%##%#%##**++++#*+-::......</text>
+<clipPath id="p23"><rect x="34" y="446.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.52s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="455.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p23)">     ......:-+*####+====+++++++++++++**+#%%#%#+-:...</text>
+<clipPath id="p24"><rect x="34" y="457.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.62s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="466.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p24)">   ..  .:=#####%%##+=======++++++=+++++*%%%%%%%###+=..</text>
+<clipPath id="p25"><rect x="34" y="467.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.72s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="476.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p25)">   .-+*##%%#%##%%%##+============+++++#%%%%%%%%%##%##+</text>
+<clipPath id="p26"><rect x="34" y="478.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.83s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="487.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p26)"> +*##%##%%#%%#%%#%%%%#+==========+==*#%%%%%%#%%%%%#%%##</text>
+<clipPath id="p27"><rect x="34" y="488.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="4.94s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="497.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p27)"> ##%%##%%%#%%#%%#%#%%%%#*==-----=+*#%%%%%%%%#%%%%%%#%%#</text>
+<clipPath id="p28"><rect x="34" y="499.0" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="5.04s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="508.0" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p28)"> #%%##%%%%#%##%%#%%##%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%#%%%</text>
+<clipPath id="p29"><rect x="34" y="509.5" width="0" height="12.5"><animate attributeName="width" from="0" to="970" begin="5.14s" dur=".105s" fill="freeze"/></rect></clipPath>
+<text x="34" y="518.5" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve" clip-path="url(#p29)"> ####%%%%%#%##%%##%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%#%%%</text>
+<line x1="0" y="588" x2="1050" y2="588" stroke="#30363d"/>
+<text x="34" y="608" font-family="ui-monospace,monospace" font-size="15" fill="#7d8590">heet@github:~$ whoami <tspan fill="#c9d1d9">Heet Parikh</tspan>
+<animate attributeName="opacity" begin="5.50s" dur=".2s" to="1" fill="freeze"/></text>
+<text x="760" y="608" font-family="ui-monospace,monospace" font-size="15" fill="#7d8590" opacity="0">AI • Full Stack • Robotics • Game Dev
+<animate attributeName="opacity" begin="5.80s" dur=".2s" to="1" fill="freeze"/></text>
+</svg>

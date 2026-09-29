@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<rect width="1200" height="330" rx="18" fill="#0d1117"/>
+<text x="600" y="42" text-anchor="middle" font-family="ui-monospace,monospace" font-size="20" fill="#c9d1d9">PAC-MAN CONTRIBUTION ARCADE</text>
+<path d="M70 90 H1130 V250 H70 Z" fill="none" stroke="#2f81f7" stroke-width="6"/>
+<g fill="#facc15"><circle cx="100" cy="115" r="3"/><circle cx="130" cy="115" r="3"/><circle cx="160" cy="115" r="3"/><circle cx="190" cy="115" r="3"/><circle cx="220" cy="115" r="3"/><circle cx="250" cy="115" r="3"/><circle cx="280" cy="115" r="3"/><circle cx="310" cy="115" r="3"/><circle cx="340" cy="115" r="3"/><circle cx="370" cy="115" r="3"/><circle cx="400" cy="115" r="3"/><circle cx="430" cy="115" r="3"/></g>
+<g transform="translate(120 172)"><circle r="22" fill="#ffd84a"/><path d="M0 0 L25 -14 A30 30 0 0 1 25 14 Z" fill="#0d1117"/><animateTransform attributeName="transform" type="translate" values="120 172;360 172;360 220;720 220;720 172;1050 172" dur="7s" repeatCount="indefinite"/></g>
+<text x="600" y="292" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,monospace" font-size="14">GitHub Action replaces this placeholder with your live contribution game.</text>
+</svg>

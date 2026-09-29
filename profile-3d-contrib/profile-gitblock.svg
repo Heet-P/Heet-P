@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+<rect width="1200" height="470" rx="18" fill="url(#b)"/>
+<text x="600" y="52" text-anchor="middle" font-family="ui-monospace,monospace" font-size="20" fill="#c9d1d9">3D GITHUB TERRAIN • BUILDING ACTIVITY</text>
+<text x="600" y="84" text-anchor="middle" font-family="ui-monospace,monospace" font-size="13" fill="#8b949e">placeholder • GitHub Action replaces this with your live contribution terrain</text>
+<g stroke="#111827" stroke-width="3">
+<g><polygon points="210,360 330,300 450,360 330,420" fill="#1d4ed8"/><polygon points="210,360 210,270 330,210 330,300" fill="#60a5fa"/><polygon points="330,300 330,210 450,270 450,360" fill="#1e40af"/></g>
+<g><polygon points="500,310 620,250 740,310 620,370" fill="#7c3aed"/><polygon points="500,310 500,190 620,130 620,250" fill="#a78bfa"/><polygon points="620,250 620,130 740,190 740,310" fill="#6d28d9"/></g>
+<g><polygon points="790,360 910,300 1030,360 910,420" fill="#059669"/><polygon points="790,360 790,270 910,210 910,300" fill="#34d399"/><polygon points="910,300 910,210 1030,270 1030,360" fill="#047857"/></g>
+</g>
+<g fill="#d1d5db"><circle cx="245" cy="325" r="6"/><circle cx="275" cy="310" r="6"/><circle cx="305" cy="295" r="6"/><circle cx="335" cy="280" r="6"/>
+<circle cx="535" cy="275" r="6"/><circle cx="565" cy="260" r="6"/><circle cx="595" cy="245" r="6"/><circle cx="625" cy="230" r="6"/>
+<circle cx="825" cy="325" r="6"/><circle cx="855" cy="310" r="6"/><circle cx="885" cy="295" r="6"/><circle cx="915" cy="280" r="6"/></g>
+<text x="330" y="255" text-anchor="middle" font-size="18" font-family="sans-serif" font-weight="700" fill="#fff">FORM / AI</text>
+<text x="620" y="205" text-anchor="middle" font-size="18" font-family="sans-serif" font-weight="700" fill="#fff">YIELDGUARD</text>
+<text x="910" y="255" text-anchor="middle" font-size="18" font-family="sans-serif" font-weight="700" fill="#fff">RESQ-MESH</text>
+</svg>

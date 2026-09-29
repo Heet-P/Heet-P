@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" rx="22" fill="#f3ead4"/>
+<rect x="22" y="22" width="1156" height="130" rx="28" fill="#11110f"/>
+<circle cx="52" cy="54" r="6" fill="#2bd26e"/>
+<text x="68" y="60" font-family="ui-monospace,monospace" font-size="16" fill="#d4d0c5">LIVE • 1,510 registered players</text>
+<text x="52" y="103" font-family="ui-monospace,monospace" font-weight="800" font-size="38" fill="#ffffff">QUIZZX</text>
+<text x="900" y="103" font-family="system-ui,sans-serif" font-weight="800" font-size="15" fill="#ffe000">LEARN • COMPETE • CLIMB • REPEAT</text>
+<g stroke="#161616" stroke-width="2">
+<rect x="22" y="175" width="330" height="390" rx="34" fill="#ff4b3e"/>
+<rect x="370" y="175" width="390" height="185" rx="34" fill="#2f5bf2"/>
+<rect x="778" y="175" width="400" height="185" rx="34" fill="#ffd400"/>
+<rect x="370" y="380" width="390" height="185" rx="34" fill="#6c3cda"/>
+<rect x="778" y="380" width="400" height="185" rx="34" fill="#11110f"/>
+</g>
+<text x="52" y="245" font-family="system-ui,sans-serif" font-weight="800" font-size="25" fill="#111">AI-POWERED</text>
+<text x="52" y="490" font-family="system-ui,sans-serif" font-weight="800" font-size="40" fill="#111">Every quiz.</text>
+<text x="52" y="532" font-family="system-ui,sans-serif" font-weight="800" font-size="40" fill="#111">Your arena.</text>
+<text x="400" y="220" font-family="system-ui,sans-serif" font-size="18" fill="#fff">LIVE NOW</text>
+<rect x="402" y="255" width="326" height="80" rx="20" fill="#fff"/>
+<text x="420" y="290" font-family="system-ui,sans-serif" font-size="18" fill="#111">Which planet has the most moons?</text>
+<rect x="420" y="303" width="287" height="32" rx="12" fill="#3564f5"/>
+<text x="437" y="325" font-family="system-ui,sans-serif" font-weight="700" font-size="15" fill="#fff">Jupiter</text>
+<text x="808" y="226" font-family="system-ui,sans-serif" font-weight="800" font-size="23" fill="#111">Fair Play</text>
+<text x="808" y="256" font-family="system-ui,sans-serif" font-size="15" fill="#111">Fullscreen lockdown</text>
+<text x="808" y="286" font-family="system-ui,sans-serif" font-size="15" fill="#111">Tab-switch detection</text>
+<text x="808" y="316" font-family="system-ui,sans-serif" font-size="15" fill="#111">Shuffled per student</text>
+<text x="400" y="430" font-family="system-ui,sans-serif" font-weight="800" font-size="24" fill="#fff">Team Battles</text>
+<text x="400" y="462" font-family="system-ui,sans-serif" font-size="16" fill="#fff">Join with a code, 24/7</text>
+<text x="850" y="430" font-family="system-ui,sans-serif" font-weight="800" font-size="26" fill="#ffd400">#1</text>
+<text x="850" y="458" font-family="system-ui,sans-serif" font-size="15" fill="#fff">GLOBAL RANK</text>
+</svg>

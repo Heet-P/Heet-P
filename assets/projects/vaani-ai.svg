@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c5af2"/><stop offset="1" stop-color="#6038ef"/></linearGradient></defs>
+<rect width="1200" height="620" rx="22" fill="url(#g)"/>
+<text x="60" y="62" font-family="system-ui,sans-serif" font-size="21" font-weight="800" fill="#fff">वाणी AI <tspan font-weight="400">| AI sales calls in 11 Indian languages</tspan></text>
+<text x="60" y="152" font-family="system-ui,sans-serif" font-size="52" font-weight="800" fill="#fff">Your leads,</text>
+<text x="60" y="210" font-family="system-ui,sans-serif" font-size="52" font-weight="800" fill="#fff">called in the</text>
+<text x="60" y="268" font-family="system-ui,sans-serif" font-size="52" font-weight="800" fill="#fff">language they</text>
+<text x="60" y="326" font-family="system-ui,sans-serif" font-size="52" font-weight="800" fill="#fff">actually speak.</text>
+<text x="62" y="371" font-family="system-ui,sans-serif" font-size="17" fill="#d8e0ff">Lead discovery → enrichment → scoring → campaign → voice call → CRM</text>
+<rect x="700" y="105" width="430" height="400" rx="28" fill="#fff"/>
+<text x="732" y="145" font-family="system-ui,sans-serif" font-weight="800" font-size="18" fill="#1b2140">Dr. Priya Mehta · Mehta Dental</text>
+<text x="732" y="172" font-family="system-ui,sans-serif" font-size="14" fill="#6a7187">Surat · Clinics campaign · called by Maya</text>
+<line x1="700" y1="196" x2="1130" y2="196" stroke="#e6e8ef"/>
+<text x="732" y="225" font-family="system-ui,sans-serif" font-size="14" fill="#7a8195">Speaking <tspan font-weight="800" fill="#1c3bea">Gujarati</tspan></text>
+<rect x="730" y="265" width="365" height="95" rx="20" fill="#eef1ff"/>
+<text x="752" y="292" font-family="system-ui,sans-serif" font-size="12" font-weight="800" fill="#616a8a">MAYA · AI</text>
+<text x="752" y="320" font-family="system-ui,sans-serif" font-size="17" fill="#252a42">નમસ્તે પ્રિયાજી, હું માયા —</text>
+<text x="752" y="344" font-family="system-ui,sans-serif" font-size="13" fill="#6f7690">The agent follows the lead's language.</text>
+<rect x="840" y="382" width="255" height="65" rx="18" fill="#fff" stroke="#e1e4ec"/>
+<text x="860" y="408" font-family="system-ui,sans-serif" font-size="13" fill="#4c536b">PR IYA</text>
+<text x="860" y="431" font-family="system-ui,sans-serif" font-size="16" fill="#2b2f43">हिंदी में बात करें?</text>
+<text x="732" y="478" font-family="system-ui,sans-serif" font-size="13" fill="#72798d">Outcome written to the lead when the call ends.</text>
+<text x="60" y="550" font-family="ui-monospace,monospace" font-size="16" fill="#d8e0ff">CURRENT BUILD → Futurrizon hackathon</text>
+</svg>
