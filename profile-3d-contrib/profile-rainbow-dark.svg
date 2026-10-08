@@ -2387,10 +2387,25 @@ fill-opacity: 0.5;
 <animate attributeName="height" dur="3s" repeatCount="1" values="2.6;10.17"/>
 </rect>
 </g>
-<g transform="translate(1120 789.26)">
-<rect class="rb-l0-top" height="18" stroke="none" style="animation-delay:-9.889s" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
-<rect class="rb-l0-left" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
-<rect class="rb-l0-right" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+<g transform="translate(1120 777.86)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1120 789.26;1120 777.86"/>
+<rect class="rb-l1-top" height="18" stroke="none" style="animation-delay:-9.889s" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l1-left" height="12.47" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;12.47"/>
+</rect>
+<rect class="rb-l1-right" height="12.47" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;12.47"/>
+</rect>
+</g>
+<g transform="translate(1100 782.04)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1100 800.81;1100 782.04"/>
+<rect class="rb-l1-top" height="18" stroke="none" style="animation-delay:-9.889s" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l1-left" height="18.85" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;18.85"/>
+</rect>
+<rect class="rb-l1-right" height="18.85" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;18.85"/>
+</rect>
 </g>
 </g>
 <g transform="translate(980, 284.5)">
@@ -2438,7 +2453,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>163</title>
+<title>171</title>
 </text>
 </g>
 <g class="axis">
@@ -2452,7 +2467,7 @@ Issue
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="18.34" x2="91.69" y1="25.24" y2="126.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="114.62" y="147.66">
 PullReq
-<title>14</title>
+<title>16</title>
 </text>
 </g>
 <g class="axis">
@@ -2466,11 +2481,11 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>14</title>
+<title>15</title>
 </text>
 </g>
-<polygon class="radar" points="0,-100.22 23.74,-7.71 39.36,54.17 -18.34,25.24 -63.68,-20.69">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-100.22 23.74,-7.71 39.36,54.17 -18.34,25.24 -63.68,-20.69"/>
+<polygon class="radar" points="0,-100.87 23.74,-7.71 40.42,55.63 -18.34,25.24 -64.57,-20.98">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-100.87 23.74,-7.71 40.42,55.63 -18.34,25.24 -64.57,-20.98"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -2519,27 +2534,27 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,1,1,-6.7612557,116.804474 L-3.7562532,64.89137 A65,65,0,1,0,0,-65 z" fill="#3178c6" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,10.732446,116.506714 L5.9624696,64.72595 A65,65,0,0,0,0,-65 z" fill="#3178c6" stroke-width="2px">
 <title>TypeScript 83</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-6.7612557,116.804474 A117,117,0,0,1,-100.94705,-59.149754 L-56.081696,-32.860973 A65,65,0,0,0,-3.7562532,64.89137 z" fill="#f1e05a" stroke-width="2px">
+<path class="stroke-bg" d="M10.732446,116.506714 A117,117,0,0,1,-112.28816,-32.86895 L-62.382313,-18.260529 A65,65,0,0,0,5.9624696,64.72595 z" fill="#f1e05a" stroke-width="2px">
 <title>JavaScript 53</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-100.94705,-59.149754 A117,117,0,0,1,-48.1369,-106.638824 L-26.742723,-59.24379 A65,65,0,0,0,-56.081696,-32.860973 z" fill="#3572A5" stroke-width="2px">
-<title>Python 16</title>
+<path class="stroke-bg" d="M-112.28816,-32.86895 A117,117,0,0,1,-46.012165,-107.57268 L-25.562313,-59.7626 A65,65,0,0,0,-62.382313,-18.260529 z" fill="#3572A5" stroke-width="2px">
+<title>Python 24</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-48.1369,-106.638824 A117,117,0,0,1,-35.510994,-111.480804 L-19.72833,-61.93378 A65,65,0,0,0,-26.742723,-59.24379 z" fill="#DA5B0B" stroke-width="2px">
+<path class="stroke-bg" d="M-46.012165,-107.57268 A117,117,0,0,1,-33.89902,-111.9815 L-18.83279,-62.211945 A65,65,0,0,0,-25.562313,-59.7626 z" fill="#DA5B0B" stroke-width="2px">
 <title>Jupyter Notebook 3</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-35.510994,-111.480804 A117,117,0,0,1,-26.819494,-113.88466 L-14.899719,-63.269253 A65,65,0,0,0,-19.72833,-61.93378 z" fill="#663399" stroke-width="2px">
+<path class="stroke-bg" d="M-33.89902,-111.9815 A117,117,0,0,1,-25.585688,-114.168175 L-14.214271,-63.426765 A65,65,0,0,0,-18.83279,-62.211945 z" fill="#663399" stroke-width="2px">
 <title>CSS 2</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M-26.819494,-113.88466 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-14.899719,-63.269253 z" fill="#444444" stroke-width="2px">
+<path class="stroke-bg" d="M-25.585688,-114.168175 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-14.214271,-63.426765 z" fill="#444444" stroke-width="2px">
 <title>other 6</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
@@ -2547,7 +2562,7 @@ other
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-597
+608
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2567,12 +2582,12 @@ contributions
 <title>1</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-10-05 / 2026-10-07
+2025-10-05 / 2026-10-08
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-1013
+1024
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
@@ -2581,7 +2596,7 @@ lifetime contributions
 Heet Parikh · Vadodara · joined 2024 · 30 public repos · 6 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
-0 issues · 14 PRs · 19 repos contributed to · heetparikh.me
+0 issues · 16 PRs · 20 repos contributed to · heetparikh.me
 </text>
 <g>
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="40" y="980">
@@ -2593,8 +2608,8 @@ Heet Parikh · Vadodara · joined 2024 · 30 public repos · 6 stars
 <rect class="fill-strong" height="36" style="opacity:0.12" width="48.083333333333336" x="90.08333333333334" y="980">
 <title>01:00 - 0 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.19" width="48.083333333333336" x="140.16666666666669" y="980">
-<title>02:00 - 2 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.30" width="48.083333333333336" x="140.16666666666669" y="980">
+<title>02:00 - 5 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.12" width="48.083333333333336" x="190.25" y="980">
 <title>03:00 - 0 commits</title>
@@ -2620,8 +2635,8 @@ Heet Parikh · Vadodara · joined 2024 · 30 public repos · 6 stars
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="490.75" y="980">
 <title>09:00 - 1 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.40" width="48.083333333333336" x="540.8333333333334" y="980">
-<title>10:00 - 8 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.47" width="48.083333333333336" x="540.8333333333334" y="980">
+<title>10:00 - 10 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.37" width="48.083333333333336" x="590.9166666666667" y="980">
 <title>11:00 - 7 commits</title>
@@ -2647,8 +2662,8 @@ Heet Parikh · Vadodara · joined 2024 · 30 public repos · 6 stars
 <rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="891.4166666666667" y="980">
 <title>17:00 - 14 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.61" width="48.083333333333336" x="941.5" y="980">
-<title>18:00 - 14 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.72" width="48.083333333333336" x="941.5" y="980">
+<title>18:00 - 17 commits</title>
 </rect>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="941.5" y="1030">
 18
@@ -2677,25 +2692,25 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#3178c6" height="18" width="413.7931034482759" x="40" y="1050">
+<rect fill="#3178c6" height="18" width="400" x="40" y="1050">
 <title>TypeScript (10 repos)</title>
 </rect>
-<rect fill="#f1e05a" height="18" width="331.0344827586207" x="453.7931034482759" y="1050">
+<rect fill="#f1e05a" height="18" width="320" x="440" y="1050">
 <title>JavaScript (8 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="206.89655172413794" x="784.8275862068965" y="1050">
-<title>Python (5 repos)</title>
+<rect fill="#3572A5" height="18" width="240" x="760" y="1050">
+<title>Python (6 repos)</title>
 </rect>
-<rect fill="#555555" height="18" width="82.75862068965517" x="991.7241379310344" y="1050">
+<rect fill="#555555" height="18" width="80" x="1000" y="1050">
 <title>C (2 repos)</title>
 </rect>
-<rect fill="#f34b7d" height="18" width="41.37931034482759" x="1074.4827586206895" y="1050">
+<rect fill="#f34b7d" height="18" width="40" x="1080" y="1050">
 <title>C++ (1 repos)</title>
 </rect>
-<rect fill="#e34c26" height="18" width="41.37931034482759" x="1115.8620689655172" y="1050">
+<rect fill="#e34c26" height="18" width="40" x="1120" y="1050">
 <title>HTML (1 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="82.75862068965517" x="1157.2413793103449" y="1050">
+<rect fill="#444444" height="18" width="80" x="1160" y="1050">
 <title>other (2 repos)</title>
 </rect>
 </g>
@@ -2710,7 +2725,7 @@ JavaScript (8)
 </text>
 <rect fill="#3572A5" height="10" width="10" x="270" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="284" y="1084">
-Python (5)
+Python (6)
 </text>
 <rect fill="#555555" height="10" width="10" x="358" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="372" y="1084">
