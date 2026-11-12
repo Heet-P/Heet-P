@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/field-notes.svg" alt="Heet Parikh. Field notes on software, AI, and robotics." width="100%" />
+  <img src="./field-notes.svg" alt="Heet Parikh. Field notes on software, AI, and robotics." width="100%" />
   <br />
   <a href="https://www.linkedin.com/in/heetparikh/">LinkedIn</a>
   &nbsp; / &nbsp;
